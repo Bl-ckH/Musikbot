@@ -15,4 +15,6 @@ npm install
 npm install discord-player
 
 
+## Bot Start
+
 node ./src/index.js
