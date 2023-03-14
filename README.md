@@ -10,5 +10,9 @@ BY https://discord.gg/NrePrKw5rK
 ## Bot Setup
 
 npm install
+
+
 npm install discord-player
+
+
 node ./src/index.js
